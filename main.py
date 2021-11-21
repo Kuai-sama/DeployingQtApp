@@ -1,7 +1,7 @@
 '''
 	Creator : Kuaï
 	Create : 16/11/2021
-	Last update : 20/11/2021
+	Last update : 21/11/2021
 	Github : Kuai-sama
 
 	This program allows you to deploy qt applications automatically
